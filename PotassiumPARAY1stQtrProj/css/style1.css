@@ -1,0 +1,53 @@
+body {
+    background-image: url('../images/1200px-Game_3_of_the_2006_NBA_Finals.jpg');
+
+    color:white;
+  }
+#S {
+    width: 450px;
+    height: auto;
+    float:left;
+    margin-right:20px;
+    Border: 5px solid rgb(247, 199, 111);
+    background-color: lightgrey;
+    color:black;
+}
+
+#r h3 {
+    clear: left;
+    width: 350px;
+    Border: 5px solid rgb(247, 199, 111);
+    background-color: lightgrey;
+    color:black;
+}
+
+#r h4,p {
+    width: 350px;
+    Border: 5px solid rgb(247, 199, 111);
+    background-color: lightgrey;
+    color:black;
+}
+
+#f  h3,h4,h5{
+    width: 350px;
+    Border: 5px solid rgb(247, 199, 111);
+    background-color: lightgrey;
+    color:black;
+}
+
+#v {
+    border: 1px solid rgb(247, 199, 111);
+    background-color: lightgrey;
+    color:black;
+    width: 350px;
+}
+
+a {
+    color:black;
+}
+#v:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgb(247, 199, 111);
+    transition: 150ms;
+    transform: scale(1.03);
+}

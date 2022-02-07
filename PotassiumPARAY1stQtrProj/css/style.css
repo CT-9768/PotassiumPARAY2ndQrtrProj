@@ -1,0 +1,34 @@
+body{
+    background: url('../images/download1.jfif');
+}
+h1 {
+    text-align: center;
+    background-color: lightgray;
+    margin: 20px;
+    height: 50px;
+}
+
+h2 {
+    background-color: lightgray;
+    width: auto;
+    font-size:x-large;
+    text-align: center;
+    vertical-align: middle;
+    margin: 20px;
+    height: 50px;
+}
+
+h2:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 lightgray;
+    transition: 150ms;
+    transform: scale(1.03);
+}
+
+a {
+    color: black;
+    margin: 20px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+}
